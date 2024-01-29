@@ -16,7 +16,7 @@
     Explore Programs
   </button>
   <ul class="dropdown-menu" aria-labelledby="dropdownMenuButton1">
-    <li><a class="dropdown-item" href="ccacourse.html" style="border:none;font-weight:500;font-size: 18px;">  CCA Course  </a></li>
+    <li><a class="dropdown-item" href="<?php echo base_url('cca-course'); ?>" style="border:none;font-weight:500;font-size: 18px;">  CCA Course  </a></li>
     <li><a class="dropdown-item" href="https://skill-mantra-landingpage.netlify.app" style="border:none;font-weight:500;font-size: 18px;">  HR Payroll Program  </a></li>
     <li><a class="dropdown-item" href="https://skill-mantra-landingpage.netlify.app" style="border:none;font-weight:500;font-size: 18px;">  HR Generalist  </a></li>
 	<li><a class="dropdown-item" href="https://skill-mantra-landingpage.netlify.app" style="border:none;font-weight:500;font-size: 18px;">  TDS Course   </a></li>
@@ -397,14 +397,14 @@
 					 </div>
 						
           <h2 class="title">
-            <a href="ccacourse.html"> CCA Course </a>
+            <a href="<?php echo base_url('cca-course'); ?>"> CCA Course </a>
           </h2>
 		  <p class="post-category"> Get professional certification offered by the Skill Mantra, which helps equip individuals with the skills and knowledge needed to succeed in the finance field.  </p>
              <div class="d-flex align-items-center">
               <p class="post-author">  <img src="image/time.svg">  Duration: 9 Months  ; Price: 34999 </p>		  
             </div>
 		 <div class="d-flex align-items-center" style="justify-content: space-around;">	
-	     <a href="ccacourse.html"> <button class="learn-more-course">Learn More</button></a>
+	     <a href="<?php echo base_url('cca-course'); ?>"> <button class="learn-more-course">Learn More</button></a>
            <button class="learn-more-brochure"  class="learn-more" data-bs-toggle="modal" href="#modal1" > <img src="image/don.png"> Brochure </button> 
 		 </div> 
         </article>

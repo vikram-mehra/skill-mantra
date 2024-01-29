@@ -19,7 +19,7 @@ Skill Manta offers you blend of professional’s programs that set the career of
   </button>
   <ul class="dropdown-menu" aria-labelledby="dropdownMenuButton1">
    <li><a class="dropdown-item" href="#" style="border:none;font-weight:700;font-size: 18px;">   Courses  </a></li>
-    <li><a class="dropdown-item" href="ccacourse.html" style="border:none;font-weight:500;font-size: 18px;">  CCA Course  </a></li>
+    <li><a class="dropdown-item" href="<?php echo base_url('cca-course'); ?>" style="border:none;font-weight:500;font-size: 18px;">  CCA Course  </a></li>
     <li><a class="dropdown-item" href="https://skill-mantra-landingpage.netlify.app" style="border:none;font-weight:500;font-size: 18px;">  HR Payroll Program  </a></li>
     <li><a class="dropdown-item" href="https://skill-mantra-landingpage.netlify.app" style="border:none;font-weight:500;font-size: 18px;">  HR Generalist  </a></li>
 	<li><a class="dropdown-item" href="https://skill-mantra-landingpage.netlify.app" style="border:none;font-weight:500;font-size: 18px;">  TDS Course   </a></li>
